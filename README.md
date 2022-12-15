@@ -1,4 +1,7 @@
 # imdb-clone
+Login için kullanıcı bilgileri:
+admin 
+123456
 
 ## Project setup
 ```
